@@ -1,0 +1,6 @@
+{
+    "obsHost": "127.0.0.1",
+    "obsPort": 4455,
+    "obsPassword": "",
+    "streamTextEvent": ""
+}
